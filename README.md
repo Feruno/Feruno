@@ -5,7 +5,7 @@
 ---
 
 ### Мои навыки
-Java, JUnit  <img align="left" alt="java" width="26" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+Java, JUnit  <img align="left" alt="java" width="26" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">   [Репозиторий дипломной работы](https://github.com/Feruno/-JavaDiplomProject)
 
 selenium <img align="left" alt="selenium" width="26" src="https://avatars.githubusercontent.com/u/983927?s=48&v=4">
 

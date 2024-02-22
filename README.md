@@ -1,5 +1,7 @@
 ### Привет 👋
+
 Я Александр Бондаренко, тестировщик.
+
 ---
 
 ### Мои навыки
@@ -13,6 +15,9 @@ MySQL <img align="left" alt="MySQL" width="26" src="https://raw.githubuserconten
 
 Postman <img align="left" alt="Postman" width="26" src="https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png">
 
+---
+
+Моё резюме в [Google Docs](https://docs.google.com/document/d/1j5YnHxHaWEKrfLPqb2UjFr9x7ZcaDbCJXsQrB_KmJL8/edit?usp=sharing)
 
 <!--
 **Feruno/Feruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
